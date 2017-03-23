@@ -14,31 +14,31 @@ The program will login, go to Admin menu category and search for an existing use
 2. The program will insert user2's name (Kostya Shyika) to the search box.
 3. The program will verify user2 presence and the disappearance of user1 from the list.
 
-### **Detailed Explanation **
+### **Detailed Explanation**
 
-1. Connects to the login page
+1) Connects to the login page
 
-2. Inserts user's email address
+2) Inserts user's email address
 
-3. Inserts user's password
+3) Inserts user's password
 
-4. Clicks the login button
-
-5. Waits for the home page to be uploaded
-
-6. Verifies "Welcome to materials zone" text on the home page
-
-7. Clicks on Admin menu category 
-
-9. Verifies the current url
-
-10. Verifies user search box presence
-
-12. Types "Kostya Shyika" in the search box
-
-14. Verifies the presence of "Kostya Shyika" on the list
-
-15. Verifies the disappearance of "roiweinreb" from the list
+4) Clicks the login button
+ 
+5) Waits for the home page to be uploaded
+ 
+6) Verifies "Welcome to materials zone" text on the home page
+ 
+7) Clicks on Admin menu category 
+ 
+9) Verifies the current url
+  
+10) Verifies user search box presence
+  
+12) Types "Kostya Shyika" in the search box
+  
+14) Verifies the presence of "Kostya Shyika" on the list
+  
+15) Verifies the disappearance of "roiweinreb" from the list
 
 #### **File Image** 
 
