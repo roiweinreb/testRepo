@@ -16,29 +16,29 @@ The program will login, go to Admin menu category and search for an existing use
 
 ### **Detailed Explanation**
 
-1) Connects to the login page
+step #1 - Connects to the login page
 
-2) Inserts user's email address
+step #2 - Inserts user's email address
 
-3) Inserts user's password
+step #3 - Inserts user's password
 
-4) Clicks the login button
- 
-5) Waits for the home page to be uploaded
- 
-6) Verifies "Welcome to materials zone" text on the home page
- 
-7) Clicks on Admin menu category 
- 
-9) Verifies the current url
-  
-10) Verifies user search box presence
-  
-12) Types "Kostya Shyika" in the search box
-  
-14) Verifies the presence of "Kostya Shyika" on the list
-  
-15) Verifies the disappearance of "roiweinreb" from the list
+step #4 - Clicks the login button
+
+step #5 - Waits for the home page to be uploaded
+
+step #6 - Verifies "Welcome to materials zone" text on the home page
+
+step #7 - Clicks on Admin menu category 
+
+step #9 - Verifies the current url
+
+step #10 - Verifies user search box presence
+
+step #12 - Types "Kostya Shyika" in the search box
+
+step #14 - Verifies the presence of "Kostya Shyika" on the list
+
+step #15 - Verifies the disappearance of "roiweinreb" from the list
 
 #### **File Image** 
 
