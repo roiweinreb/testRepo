@@ -14,7 +14,10 @@ The program will login, go to Admin menu category and search for an existing use
 2. The program will insert user2's name (Kostya Shyika) to the search box.
 3. The program will verify user2 presence and the disappearance of user1 from the list.
 
-### **Detailed Explanation **
+### **Detailed Explanation **                                                                                                          #### **File Image** 
+
+                                                                                                                                       ![usersearchimage](https://cloud.githubusercontent.com/assets/26378397/24261716/8b6e8820-1000-11e7-98e0-d5fa309124c5.png)
+                           
 
 1. Connects to the login page
 
@@ -40,6 +43,3 @@ The program will login, go to Admin menu category and search for an existing use
 
 15. Verifies the disappearance of "roiweinreb" from the list
 
-#### **File Image** 
-
-![usersearchimage](https://cloud.githubusercontent.com/assets/26378397/24261716/8b6e8820-1000-11e7-98e0-d5fa309124c5.png)
