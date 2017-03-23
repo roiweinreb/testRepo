@@ -1,10 +1,9 @@
 # userSearch README file
 
-**FILE PATH**
+# **File Path**
 
 C:\Users\User\QA\tests\Admin\userSearch.json
---
 
-**GENERAL DESCRIPTION**
+# **General Description**
 
-The program will log-in, go to Admin menu category and search for an existing user
+The program will login, go to Admin menu category and search for an existing user
